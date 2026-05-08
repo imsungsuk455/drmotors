@@ -1,6 +1,6 @@
 ---
 author: Sat Naing
-pubDatetime: "2024-01-04T09:30:41.816Z"
+pubDatetime: 2024-01-04T09:30:41.816Z
 title: AstroPaper 4.0
 slug: "astro-paper-v4"
 featured: false
@@ -10,7 +10,7 @@ tags:
 description: "AstroPaper v4: ensuring a smoother and more feature-rich blogging experience."
 ---
 
-Hello everyone! Wishing you a happy New Year ?Ž‰ and all the best for 2024! We're excited to announce the release of AstroPaper v4, a significant update that introduces a range of new features, improvements, and bug fixes to elevate your blogging experience. A big thank you to all the contributors for their valuable input and efforts in making version 4 possible!
+Hello everyone! Wishing you a happy New Year ?ï¿½ï¿½ and all the best for 2024! We're excited to announce the release of AstroPaper v4, a significant update that introduces a range of new features, improvements, and bug fixes to elevate your blogging experience. A big thank you to all the contributors for their valuable input and efforts in making version 4 possible!
 
 ![AstroPaper v4](@/assets/images/AstroPaper-v4.png)
 
@@ -20,7 +20,7 @@ Hello everyone! Wishing you a happy New Year ?Ž‰ and all the best for 2024! We'r
 
 ### Upgrade to Astro v4 [#202](https://github.com/satnaing/astro-paper/pull/202)
 
-AstroPaper now leverages the power and capabilities of Astro v4. However, it?™s a subtle upgrade and won?™t break most Astro users.
+AstroPaper now leverages the power and capabilities of Astro v4. However, it?ï¿½s a subtle upgrade and won?ï¿½t break most Astro users.
 
 ![Astro v4](https://astro.build/_astro/header-astro-4.YunweN9V_OmV0l.webp)
 
@@ -33,7 +33,7 @@ The `postSlug` in the blog content schema is no longer available in AstroPaper v
 ```bash
 ---
 author: Sat Naing
-pubDatetime: "2024-01-01T04:35:33.428Z"
+pubDatetime: 2024-01-01T04:35:33.428Z
 title: AstroPaper 4.0
 slug: "astro-paper-v4" # if slug is not specified, it will be 'astro-paper-4' (file name).
 # slug: "" ??cannot be an empty string
