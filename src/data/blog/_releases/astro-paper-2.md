@@ -22,7 +22,7 @@ Astro 2.0 has been released with some cool features, breaking changes, DX improv
 
 ### Type-safe Frontmatters and Redefined Blog Schema
 
-Frontmatter of AstroPaper 2.0 markdown contents are now type-safe thanks to Astro?�s Content Collections. Blog schema is defined inside the `src/content/_schemas.ts` file.
+Frontmatter of AstroPaper 2.0 markdown contents are now type-safe thanks to Astro’s Content Collections. Blog schema is defined inside the `src/content/_schemas.ts` file.
 
 ### New Home for Blog contents
 

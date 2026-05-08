@@ -73,7 +73,7 @@ AstroPaper has switched from `npm` to `pnpm`, which offers faster and more effic
 
 ### Replace icons/svg with Astro's Svg Component
 
-AstroPaper v5 replaces inline SVGs with Astro?�s experimental [SVG Component](https://docs.astro.build/en/reference/experimental-flags/svg/). This update reduces the need for predefined SVG code in the `socialIcons` object, making the codebase cleaner and more maintainable.
+AstroPaper v5 replaces inline SVGs with Astro’s experimental [SVG Component](https://docs.astro.build/en/reference/experimental-flags/svg/). This update reduces the need for predefined SVG code in the `socialIcons` object, making the codebase cleaner and more maintainable.
 
 ### Separate Constants and Config
 
