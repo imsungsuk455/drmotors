@@ -1,6 +1,6 @@
 ---
 author: Sat Naing
-pubDatetime: 2023-09-25T10:25:54.547Z
+pubDatetime: "2023-09-25T10:25:54.547Z"
 title: AstroPaper 3.0
 slug: astro-paper-v3
 featured: false
@@ -89,7 +89,7 @@ It's important to keep all the files which have been already updated. These file
 - `/src/styles/base.css` (minor changes in v3; mentioned below)
 - `/src/assets/` (didn't touch in v3)
 - `/public/assets/` (didn't touch in v3)
-- `/content/blog/` (it's your blog content directory ğŸ¤·ğŸ»â€â™‚ï¸)
+- `/content/blog/` (it's your blog content directory ?¤·?»?â™‚ï¸?
 - Any other customizations you've made.
 
 ```css

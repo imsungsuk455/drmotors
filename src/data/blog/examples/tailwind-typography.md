@@ -1,7 +1,7 @@
 ---
 title: Tailwind Typography Plugin
 author: Sat Naing
-pubDatetime: 2022-07-05T02:05:51Z
+pubDatetime: "2022-07-05T02:05:51Z"
 featured: false
 draft: false
 tags:
@@ -17,7 +17,7 @@ By default, Tailwind removes all of the default browser styling from paragraphs,
 We get lots of complaints about it actually, with people regularly asking us things like:
 
 > Why is Tailwind removing the default styles on my `h1` elements? How do I disable this? What do you mean I lose all the other base styles too?
-> We hear you, but we're not convinced that simply disabling our base styles is what you really want. You don't want to have to remove annoying margins every time you use a `p` element in a piece of your dashboard UI. And I doubt you really want your blog posts to use the user-agent styles either — you want them to look _awesome_, not awful.
+> We hear you, but we're not convinced that simply disabling our base styles is what you really want. You don't want to have to remove annoying margins every time you use a `p` element in a piece of your dashboard UI. And I doubt you really want your blog posts to use the user-agent styles either ??you want them to look _awesome_, not awful.
 
 The `@tailwindcss/typography` plugin is our attempt to give you what you _actually_ want, without any of the downsides of doing something stupid like disabling our base styles.
 
@@ -58,7 +58,7 @@ Now we're going to try out another header style.
 
 ### Typography should be easy
 
-So that's a header for you — with any luck if we've done our job correctly that will look pretty reasonable.
+So that's a header for you ??with any luck if we've done our job correctly that will look pretty reasonable.
 
 Something a wise person once told me about typography is:
 
@@ -90,7 +90,7 @@ And that's the end of this section.
 
 Sometimes you have headings directly underneath each other. In those cases you often have to undo the top margin on the second heading because it usually looks better for the headings to be closer together than a paragraph followed by a heading should be.
 
-### When a heading comes after a paragraph …
+### When a heading comes after a paragraph ??
 
 When a heading comes after a paragraph, we need a bit more space, like I already mentioned above. Now let's see what a more complex list would look like.
 
